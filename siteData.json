@@ -1,0 +1,50 @@
+[
+    {
+        "name": "LC-39A",
+        "facility": "Kennedy Space Center",
+        "location": "Florida, USA",
+        "id": 0,
+        "coordinates": {
+            "longitude": -80.604333,
+            "latitude": 28.608389
+        },
+        "imageName": "site_lc39a",
+        "description": "Lorem ipsum."
+    },
+    {
+        "name": "SLC-40",
+        "facility": "Cape Canaveral",
+        "location": "Florida, USA",
+        "id": 1,
+        "coordinates": {
+            "longitude": -80.57718,
+            "latitude": 28.562106
+        },
+        "imageName": "site_slc40",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tristique iaculis vulputate. Nullam posuere, odio vitae rhoncus ullamcorper, est urna vulputate ante, cursus malesuada nunc dui non felis. "
+    },
+    {
+        "name": "LC-1A",
+        "facility": "Mahia Peninsula",
+        "location": "North Island, New Zealand",
+        "id": 2,
+        "coordinates": {
+            "longitude": 177.864876,
+            "latitude": -39.2615
+        },
+        "imageName": "site_lc1a",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tristique iaculis vulputate. Nullam posuere, odio vitae rhoncus ullamcorper, est urna vulputate ante, cursus malesuada nunc dui non felis. Praesent urna lacus, facilisis vitae viverra id, scelerisque ut magna. Suspendisse potenti. "
+    },
+    {
+        "name": "SLC-41",
+        "facility": "Cape Canaveral",
+        "location": "Florida, USA",
+        "id": 3,
+        "coordinates": {
+            "longitude": -80.583056,
+            "latitude": 28.583333
+        },
+        "imageName": "ula_atlas5",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tristique iaculis vulputate. Nullam posuere, odio vitae rhoncus ullamcorper, est urna vulputate ante, cursus malesuada nunc dui non felis."
+    }
+]

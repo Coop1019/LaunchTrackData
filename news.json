@@ -1,0 +1,28 @@
+[
+    {
+        "article": "Successful mission and landing for SpaceX GPS III SV03 Mission",
+        "tags": "LaunchTrack",
+        "id": 1593552949,
+        "postTime": 1593552949,
+        "imageName": "sx_f9",
+        "content": "SpaceX has successfully completed the GPS III SV03 mission, deploying the United States Space Force's newest GPS satellite to the desired orbit. Additionally, Falcon 9 Booster 1060 landed on the Autonomous Spaceport Drone Ship (ASDS) 'Just Read the Instructions' (JRTI)!",
+        "readMore": "",
+        "articleImageURL": "https://cdn.launchtrack.app/images/articles/gps3-3-landingJRTI.jpg",
+        "launchID": 1593547846,
+        "siteID": -99,
+        "rocketID": 0
+    },
+    {
+        "article": "Welcome to LaunchTrack",
+        "tags": "LaunchTrack",
+        "id": 4564,
+        "postTime": 1583017540,
+        "imageName": "sx_f9",
+        "content": "Welcome to LaunchTrack! We hope this app will suit your space-launch tracking needs. Enjoy the app and please, let us know if you want to see any changes! You can always reach us at support@launchtrack.app",
+        "readMore": "https://launchtrack.app",
+        "articleImageURL": "https://cdn.launchtrack.app/images/articles/space_landing_fh.jpg",
+        "launchID": -99,
+        "siteID": -99,
+        "rocketID": -99
+    }
+]
