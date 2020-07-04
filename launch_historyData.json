@@ -1,5 +1,21 @@
 [
     {
+        "name": "Pics Or It Didn't Happen",
+        "rocketID": 1,
+        "siteID": 2,
+        "launchTime": 1593897549,
+        "craft": "Curie",
+        "id": 1593897549,
+        "description": "Mission Failure Statement: \n\nAn issue was experienced today during Rocket Lab's launch that caused the loss of the vehicle. We are deeply sorry to the customers on board Electron. The issue occurred late in the flight during the 2nd stage burn. More information will be provided as it becomes available.\n(@RocketLab via Twitter)\n\n\nOrignal Mission Objective:\n\n‘Pics Or It Didn’t Happen’ will deploy seven small satellites to a 500km circular low Earth orbit for a range of customers including Spaceflight Inc.’s customer Canon Electronics, as well as Planet and In-Space Missions.\n\nThe primary payload aboard this mission, Canon Electronics Inc.’s CE-SAT-IB, was procured by satellite rideshare and mission management provider Spaceflight Inc. The mission objective for the CE-SAT-IB satellite is to demonstrate Canon Electronics Inc.’s Earth-imaging technology with high-resolution and wide-angle cameras, as well as test the microsatellite for mass production.\n\nThe next five spacecraft manifested for this mission are the latest generation of SuperDove satellites manufactured by Planet, operator of the world’s largest constellation of Earth-observation satellites. Planet’s satellites are capable of imaging the Earth’s entire landmass on a near-daily basis. This unprecedented dataset helps researchers, students, businesses and governments discover patterns, detect early signals of change, and make timely, informed decisions. These five SuperDoves, Flock 4e, are equipped with new sensors to enable higher image quality with sharper, more vibrant colors and accurate surface reflectance values for advanced algorithms and time-series analysis.\n\nThe final spacecraft aboard Electron for this mission has been supplied by British small mission prime, In-Space Missions. The Faraday-1 6U CubeSat is a hosted payload mission providing a low-cost route to orbit for start-ups, institutions, and large corporate R&D groups.  In addition, it provides a first flight demonstration of In-Space’s own software-defined payload that will enable uploadable payload capabilities on future missions\n\n(Source: Rocket Lab)",
+        "recoveryStatus": "In Development",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/rl/rl_13.png",
+        "crewed": "",
+        "replayURL": "https://www.youtube.com/watch?v=5ZcZoDFYjXc",
+        "outcome": 1,
+        "orbit": "LEO"
+    },
+    {
         "name": "GPS III SV03",
         "rocketID": 0,
         "siteID": 1,
