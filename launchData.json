@@ -12,7 +12,8 @@
         "destination": "",
         "patchURL": "https://cdn.launchtrack.app/images/patches/rl/rl_13.png",
         "crewed": "",
-        "liveURL": "",
+        "liveURL": "https://www.youtube.com/watch?v=5ZcZoDFYjXc",
+        "isLive": true,
         "orbit": "LEO"
     },
     {
