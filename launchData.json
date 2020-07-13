@@ -10,7 +10,7 @@
         "id": 1006,
         "description": "SpaceX will launch the ANASIS-II (KMilSatCom 1) satellite for the South Korean military which will serve to provide communication capability.",
         "recoveryStatus": "Planned",
-        "destination": "",
+        "destination": "Just Read the Instructions",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_07_2020_anasis.png",
         "crewed": "",
         "orbit": "LEO"
