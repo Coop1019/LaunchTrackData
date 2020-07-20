@@ -1,5 +1,21 @@
 [
     {
+        "name": "ANASIS-II",
+        "rocketID": 0,
+        "siteID": 0,
+        "launchTime": 1595280600,
+        "craft": "1058.2",
+        "id": 1595280600,
+        "description": "SpaceX is targeting Monday, July 20 for Falcon 9’s launch of the ANASIS-II mission, which will lift off from Space Launch Complex 40 (SLC-40) at Cape Canaveral Air Force Station in Florida. The primary launch window opens at 5:00 p.m. EDT, or 21:00 UTC, and closes at 8:55 p.m. EDT, or 00:55 UTC on July 21. A backup launch opportunity is available on Tuesday, July 21 that opens at 5:00 p.m. EDT, or 21:00 UTC, and closes at 8:55 p.m. EDT, or 00:55 UTC on July 22.\n\nFalcon 9’s first stage previously launched Crew Dragon to the International Space Station with NASA astronauts Bob Behnken and Doug Hurley on board. Following stage separation, SpaceX will land Falcon 9’s first stage on the 'Just Read the Instructions' droneship, which will be stationed in the Atlantic Ocean. The ANASIS-II spacecraft will deploy about 32 minutes after liftoff.",
+        "recoveryStatus": "Complete",
+        "destination": "Just Read the Instructions",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_07_2020_anasis.png",
+        "crewed": "",
+        "replayURL": "https://www.youtube.com/watch?v=TshvZlQ7le8",
+        "outcome": 0,
+        "orbit": "GTO"
+    },
+    {
         "name": "Pics Or It Didn't Happen",
         "rocketID": 1,
         "siteID": 2,

@@ -1,22 +1,4 @@
 [
-    
-    {
-        "name": "ANASIS-II",
-        "rocketID": 0,
-        "siteID": 0,
-        "launchTime": 1595280600,
-        "genDate": "Pending",
-        "craft": "1058.2",
-        "id": 1006,
-        "description": "SpaceX will launch the ANASIS-II (KMilSatCom 1) satellite for the South Korean military which will serve to provide communication capability.",
-        "recoveryStatus": "Planned",
-        "destination": "Just Read the Instructions",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_07_2020_anasis.png",
-        "crewed": "",
-        "liveURL": "https://www.youtube.com/watch?v=TshvZlQ7le8",
-        "isLive": true,
-        "orbit": "LEO"
-    },
     {
         "name": "Starlink 9/Blacksky",
         "rocketID": 0,
