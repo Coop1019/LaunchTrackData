@@ -13,6 +13,8 @@
         "destination": "Just Read the Instructions",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_07_2020_anasis.png",
         "crewed": "",
+        "liveURL": "https://www.youtube.com/watch?v=TshvZlQ7le8",
+        "isLive": false,
         "orbit": "LEO"
     },
     {
