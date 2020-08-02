@@ -1,25 +1,10 @@
 [
-    {
-        "name": "Mars 2020 Perseverance",
-        "rocketID": 2,
-        "siteID": 3,
-        "launchTime": 1596109802,
-        "genDate": "30 July 2020",
-        "craft": "541 Config",
-        "id": 51612,
-        "description": "The Mars 2020 mission with its Perseverance rover is part of NASA's Mars Exploration Program, a long-term effort of robotic exploration of the Red Planet. The Mars 2020 mission addresses high-priority science goals for Mars exploration, including key Astrobiology questions about the potential for life on Mars. The mission takes the next step by not only seeking signs of habitable conditions on Mars in the ancient past, but also searching for signs of past microbial life itself. The Perseverance rover introduces a drill that can collect core samples of the most promising rocks and soils and set them aside in a 'cache' on the surface of Mars. A future mission could potentially return these samples  to Earth.  That would help scientists study the samples in laboratories with special room-sized equipment that would be too large to take to Mars. The mission also provides opportunities to gather knowledge and demonstrate technologies that address the challenges of future human expeditions to Mars. These include testing a method for producing oxygen from the Martian atmosphere, identifying other resources (such as subsurface water), improving landing techniques, and characterizing weather, dust, and other potential environmental conditions that could affect future astronauts living and working on Mars.\n\nThe mission is timed for a launch opportunity in July 2020 when Earth and Mars are in good positions relative to each other for landing on Mars. That is, it takes less power to travel to Mars at this time, compared to other times when Earth and Mars are in different positions in their orbits. To keep mission costs and risks as low as possible, the Mars 2020 design is based on NASA's successful Mars Science Laboratory mission architecture, including its Curiosity rover and proven landing system.\n\nLaunch is still on schedule and the Mars 2020 team is working hard to get the Perseverance rover to the launch pad.  Check the Kennedy Space Center Visitor Complex for hours and/or any restrictions.  If you plan to attend in person, consider making refundable travel reservations.\n\nThe first launch opportunity begins at 6:35 a.m. PDT/ 9:35 a.m. EDT on July 22\n\nThe launch period is approximately three weeks, from July 22 to August 11. The duration of the daily launch window varies from day to day. The launch windows will last approximately two hours, with a unique launch opportunity every five minutes.\n\nThe Mars 2020 spacecraft with its Perseverance Rover will launch on an Atlas V-541 rocket from Launch Complex 41 at Cape Canaveral Air Force Station, Florida.  The Atlas V is one of the largest rockets available for interplanetary flight.  This is the same type of rocket that launched the InSight and Curiosity to Mars.  The launch vehicle is provided by United Launch Alliance, Centennial Colorado.(Source: NASA)",
-        "recoveryStatus": "🚫",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/ula_mars2020.png",
-        "crewed": "",
-        "orbit": "HTO"
-        
-    },
+    
     {
         "name": "Starlink 9/Blacksky",
         "rocketID": 0,
         "siteID": 0,
-        "genDate": "1 August 2020",
+        "genDate": "August 2020",
         "launchTime": 0,
         "craft": "1051.5",
         "id": 1594224000,
