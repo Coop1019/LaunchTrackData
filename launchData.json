@@ -1,22 +1,6 @@
 [
     
-    {
-        "name": "Starlink 9/Blacksky",
-        "rocketID": 0,
-        "siteID": 0,
-        "genDate": "August 2020",
-        "launchTime": 1596777120,
-        "craft": "1051.5",
-        "id": 1594224000,
-        "description": "SpaceX is targeting Friday, August 7 at 1:12 a.m. EDT, 5:12 UTC, for launch of its tenth Starlink mission, which will include 57 Starlink satellites and 2 satellites from BlackSky, a Spaceflight customer. Falcon 9 will lift off from Launch Complex 39A (LC-39A) at Kennedy Space Center in Florida. A backup opportunity is available on Saturday, August 8 at 12:50 a.m. EDT, 4:50 UTC.\n\nFalcon 9’s first stage previously supported Crew Dragon’s first demonstration mission to the International Space Station, launch of the RADARSAT Constellation Mission, and the fourth and seventh Starlink missions. Following stage separation, SpaceX will land Falcon 9’s first stage on the “Of Course I Still Love You” droneship, which will be stationed in the Atlantic Ocean.\n\nThe BlackSky Global spacecraft will deploy sequentially beginning 1 hour and 1 minute after liftoff, and the Starlink satellites will deploy approximately 1 hour and 33 minutes after liftoff. Starlink satellites will be deployed in a circular orbit, as was done on the first through fourth Starlink missions. Additionally, all Starlink satellites on this flight are equipped with a deployable visor to block sunlight from hitting the brightest spots of the spacecraft – a measure SpaceX has taken as part of our work with leading astronomical groups to mitigate satellite reflectivity.",
-        "recoveryStatus": "Planned",
-        "destination": "Of Course I Still Love You",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "crewed": "",
-        "liveURL": "https://youtu.be/KU6KogxG5BE",
-        "isLive": false,
-        "orbit": "LEO"
-    },
+    
     {
         "name": "SAOCOM 1B",
         "rocketID": 0,
@@ -31,22 +15,6 @@
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
         "crewed": "",
         "orbit": "SSO"
-        
-    },
-    {
-        "name": "Starlink 10/SkySat 19-21",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 0,
-        "genDate": "August 2020",
-        "craft": "",
-        "id": 1004,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe. SkySat 19, 20, and 21 from Planet Labs will ride share.",
-        "recoveryStatus": "Planned",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "crewed": "",
-        "orbit": "LEO"
         
     },
     {
