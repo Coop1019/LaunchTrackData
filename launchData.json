@@ -20,7 +20,7 @@
         "rocketID": 0,
         "siteID": 1,
         "launchTime": 0,
-        "genDate": "August 2020",
+        "genDate": "August 28",
         "craft": "",
         "id": 1005,
         "description": "The second launch of two, of Earth observation satellites for Argentina's space agency CONAE.",
@@ -30,6 +30,21 @@
         "crewed": "",
         "orbit": "SSO"
         
+    },
+    {
+        "name": "Starlink 11",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 0,
+        "genDate": "August 29",
+        "craft": "",
+        "id": 1007,
+        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
+        "recoveryStatus": "Planned",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
+        "crewed": "",
+        "orbit": "LEO"
     },
     {
         "name": "SiriusXM 7",
@@ -45,21 +60,6 @@
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
         "crewed": "",
         "orbit": "GTO"
-    },
-    {
-        "name": "Starlink 11",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 0,
-        "genDate": "August 2020",
-        "craft": "",
-        "id": 1007,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
-        "recoveryStatus": "Planned",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "crewed": "",
-        "orbit": "LEO"
     },
     {
         "name": "NROL-44",
