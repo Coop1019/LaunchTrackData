@@ -1,26 +1,40 @@
 [
-    {
-        "name": "I Can't Believe It's Not Optical",
-        "rocketID": 1,
-        "siteID": 2,
-        "launchTime": 1598497529,
-        "genDate": "August 2020",
+	{
+        "name": "NROL-44",
+        "rocketID": 3,
+        "siteID": 6,
+        "launchTime": 1598681081,
+        "genDate": "29 August 2020",
         "craft": "",
-        "id": 1598497529,
-        "description": "Sequoia is a 100 kg class microsatellite and will be positioned in a 45-degree inclination. This mid-inclination allows us to give our customers immediate access to rapid coverage of important regions, including the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S. Like all of our Capella satellites, Sequoia will be able to see through clouds and in the dark and detect sub-0.5 meter changes on Earth’s surface. When fully deployed, our satellite constellation will offer hourly coverage of every point on Earth.\n\n(Source: Capella Space)",
-        "recoveryStatus": "In Development",
+        "id": 49156,
+        "description": "United Launch Allinace will launch a classified payload for the National Reconnaissance Office. This mission is first of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
+        "recoveryStatus": "🚫",
         "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/rl/rl_14.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/ula/nrol44.png",
         "crewed": "",
         "orbit": "LEO"
     },
-    
+    {
+        "name": "Starlink 11",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 1598710090,
+        "genDate": "29 August",
+        "craft": "",
+        "id": 1007,
+        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
+        "recoveryStatus": "Planned",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
+        "crewed": "",
+        "orbit": "LEO"
+    },
     {
         "name": "SAOCOM 1B",
         "rocketID": 0,
         "siteID": 1,
-        "launchTime": 0,
-        "genDate": "August 28",
+        "launchTime": 1598743095,
+        "genDate": "29 August",
         "craft": "",
         "id": 1005,
         "description": "The second launch of two, of Earth observation satellites for Argentina's space agency CONAE.",
@@ -32,20 +46,24 @@
         
     },
     {
-        "name": "Starlink 11",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 0,
-        "genDate": "August 29",
+        "name": "I Can't Believe It's Not Optical",
+        "rocketID": 1,
+        "siteID": 2,
+        "launchTime": 1598756715,
+        "genDate": "30 August 2020",
         "craft": "",
-        "id": 1007,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
-        "recoveryStatus": "Planned",
+        "id": 1598497529,
+        "description": "Sequoia is a 100 kg class microsatellite and will be positioned in a 45-degree inclination. This mid-inclination allows us to give our customers immediate access to rapid coverage of important regions, including the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S. Like all of our Capella satellites, Sequoia will be able to see through clouds and in the dark and detect sub-0.5 meter changes on Earth’s surface. When fully deployed, our satellite constellation will offer hourly coverage of every point on Earth.\n\n(Source: Capella Space)",
+        "recoveryStatus": "In Development",
         "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/rl/rl_14.png",
         "crewed": "",
+        "liveURL": "http://www.rocketlabusa.com/live-stream",
         "orbit": "LEO"
     },
+    
+    
+    
     {
         "name": "SiriusXM 7",
         "rocketID": 0,
@@ -61,21 +79,7 @@
         "crewed": "",
         "orbit": "GTO"
     },
-    {
-        "name": "NROL-44",
-        "rocketID": 3,
-        "siteID": 6,
-        "launchTime": 0,
-        "genDate": "26 August 2020",
-        "craft": "",
-        "id": 49156,
-        "description": "United Launch Allinace will launch a classified payload for the National Reconnaissance Office. This mission is first of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
-        "recoveryStatus": "🚫",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/ula_base.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
+    
     {
         "name": "Starlink 12",
         "rocketID": 0,
