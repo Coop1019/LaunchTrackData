@@ -1,19 +1,4 @@
 [
-	{
-        "name": "NROL-44",
-        "rocketID": 3,
-        "siteID": 6,
-        "launchTime": 1598681081,
-        "genDate": "29 August 2020",
-        "craft": "",
-        "id": 49156,
-        "description": "United Launch Allinace will launch a classified payload for the National Reconnaissance Office. This mission is first of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
-        "recoveryStatus": "🚫",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/ula/nrol44.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
     {
         "name": "I Can't Believe It's Not Optical",
         "rocketID": 1,
@@ -60,6 +45,21 @@
         "crewed": "",
         "orbit": "SSO"
         
+    },
+    {
+        "name": "NROL-44",
+        "rocketID": 3,
+        "siteID": 6,
+        "launchTime": 0,
+        "genDate": "September 2020",
+        "craft": "",
+        "id": 49156,
+        "description": "United Launch Allinace will launch a classified payload for the National Reconnaissance Office. This mission is first of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
+        "recoveryStatus": "🚫",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/ula/nrol44.png",
+        "crewed": "",
+        "orbit": "LEO"
     },
     {
         "name": "SiriusXM 7",
