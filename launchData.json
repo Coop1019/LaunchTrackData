@@ -13,7 +13,7 @@
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
         "crewed": "",
         "liveURL": "https://www.youtube.com/watch?v=P-gLOsDjE3E",
-        "isLive":, true,
+        "isLive": true,
         "orbit": "SSO"
         
     },
