@@ -1,39 +1,5 @@
 [
     {
-        "name": "SAOCOM 1B",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 1598829495,
-        "genDate": "29 August",
-        "craft": "1059.4",
-        "id": 1005,
-        "description": "The second launch of two, of Earth observation satellites for Argentina's space agency CONAE.",
-        "recoveryStatus": "Planned",
-        "destination": "Landing Zone 1",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
-        "crewed": "",
-        "liveURL": "https://www.youtube.com/watch?v=P-gLOsDjE3E",
-        "isLive": true,
-        "orbit": "SSO"
-        
-    },
-    {
-        "name": "I Can't Believe It's Not Optical",
-        "rocketID": 1,
-        "siteID": 2,
-        "launchTime": 1598843139,
-        "genDate": "30 August 2020",
-        "craft": "",
-        "id": 1598497529,
-        "description": "Sequoia is a 100 kg class microsatellite and will be positioned in a 45-degree inclination. This mid-inclination allows us to give our customers immediate access to rapid coverage of important regions, including the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S. Like all of our Capella satellites, Sequoia will be able to see through clouds and in the dark and detect sub-0.5 meter changes on Earth’s surface. When fully deployed, our satellite constellation will offer hourly coverage of every point on Earth.\n\n(Source: Capella Space)",
-        "recoveryStatus": "In Development",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/rl/rl_14.png",
-        "crewed": "",
-        "liveURL": "http://www.rocketlabusa.com/live-stream",
-        "orbit": "LEO"
-    },
-    {
         "name": "Starlink 11",
         "rocketID": 0,
         "siteID": 0,
