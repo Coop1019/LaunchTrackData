@@ -20,7 +20,7 @@
         "rocketID": 1,
         "siteID": 2,
         "launchTime": 1598843139,
-        "craft": "",
+        "craft": "Photon",
         "id": 1598497529,
         "description": "Sequoia is a 100 kg class microsatellite and will be positioned in a 45-degree inclination. This mid-inclination allows us to give our customers immediate access to rapid coverage of important regions, including the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S. Like all of our Capella satellites, Sequoia will be able to see through clouds and in the dark and detect sub-0.5 meter changes on Earth’s surface. When fully deployed, our satellite constellation will offer hourly coverage of every point on Earth.\n\n(Source: Capella Space)",
         "recoveryStatus": "In Development",
