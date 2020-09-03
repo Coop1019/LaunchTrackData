@@ -1,5 +1,13 @@
 # LaunchTrack Data
-## Contribute to the LaunchTrack Database!
+Contribute to the LaunchTrack Database! The better our data, the better the app!
+
+Right now we have support for the following rockets:
+- Falcon 9/Falcon Heavy
+- Electron
+- Atlas V
+- Delta IV Heavy
+
+We are excited to add more. Just file an issue with a rocket you would be interested in adding data for and we can get it integrated to our long-term plans!
 
 ## Data format:
 ### Present/Future Launches:
