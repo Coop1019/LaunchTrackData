@@ -1,5 +1,20 @@
 [
     {
+        "name": "Starlink 12",
+        "rocketID": 0,
+        "siteID": 0,
+        "launchTime": 1600366620,
+        "genDate": "September 2020",
+        "craft": "",
+        "id": 1600359420,
+        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
+        "recoveryStatus": "Planned",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
+        "crewed": "",
+        "orbit": "LEO"
+    },
+    {
         "name": "NROL-44",
         "rocketID": 3,
         "siteID": 6,
@@ -14,29 +29,15 @@
         "crewed": "",
         "orbit": "LEO"
     },
-    {
-        "name": "Starlink 12",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 0,
-        "genDate": "September 2020",
-        "craft": "",
-        "id": 1008,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
-        "recoveryStatus": "Planned",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
+    
     {
         "name": "GPS III SV04",
         "rocketID": 0,
         "siteID": 1,
-        "launchTime": 0,
+        "launchTime": 1601510400,
         "genDate": "30 September 2020",
         "craft": "1062.1",
-        "id": 1009,
+        "id": 1601510400,
         "description": "This will be the fourth launch in GPS Block III, helping keep the Global Positioning System fully operational. The GPS satellite was developed by Lockheed Martin. GPS Block III was originated by the the Clinton Administration in 1998.",
         "recoveryStatus": "Planned",
         "destination": "",
@@ -107,7 +108,7 @@
     {
         "name": "Starlink 15",
         "rocketID": 0,
-        "siteID": 0,
+        "siteID": 1,
         "launchTime": 0,
         "genDate": "October 2020",
         "craft": "",
@@ -117,6 +118,23 @@
         "destination": "",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
         "crewed": "",
+        "orbit": "LEO"
+    },
+    
+
+    {
+        "name": "NASA Crew-1",
+        "rocketID": 0,
+        "siteID": 0,
+        "launchTime": 1603446435,
+        "genDate": "23 October 2020",
+        "craft": "1061.1",
+        "id": 1603446435,
+        "description": "SpaceX Crew 1 will launch four astronauts aboard the Crew Dragon C207 capsule to the International Space Station. The launch is planned to occur after the sucessful return of SpaceX Demo 2. The four astronauts will serve as part of Expedition 64 aboard the International Space Station.\n\nSpacecraft commander: Michael S. Hopkins (NASA)\n\nPilot: Victor J. Glover (NASA)\n\nMission Specialist 1: Soichi Noguchi (JAXA)\n\nMission Specialist 2: Shannon Walker (NASA)",
+        "recoveryStatus": "Planned",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_nasa_crew1.png",
+        "crewed": "👨🏼‍🚀👨🏾‍🚀👩🏼‍🚀👨🏽‍🚀",
         "orbit": "LEO"
     },
     {
@@ -132,22 +150,6 @@
         "destination": "",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
         "crewed": "",
-        "orbit": "LEO"
-    },
-
-    {
-        "name": "NASA Crew-1",
-        "rocketID": 0,
-        "siteID": 0,
-        "launchTime": 0,
-        "genDate": "23 October 2020",
-        "craft": "1061.1",
-        "id": 1017,
-        "description": "SpaceX Crew 1 will launch four astronauts aboard the Crew Dragon C207 capsule to the International Space Station. The launch is planned to occur after the sucessful return of SpaceX Demo 2. The four astronauts will serve as part of Expedition 64 aboard the International Space Station.\n\nSpacecraft commander: Michael S. Hopkins (NASA)\n\nPilot: Victor J. Glover (NASA)\n\nMission Specialist 1: Soichi Noguchi (JAXA)\n\nMission Specialist 2: Shannon Walker (NASA)",
-        "recoveryStatus": "Planned",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_nasa_crew1.png",
-        "crewed": "👨🏼‍🚀👨🏾‍🚀👩🏼‍🚀👨🏽‍🚀",
         "orbit": "LEO"
     },
         {
