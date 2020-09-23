@@ -15,6 +15,21 @@
         "orbit": "LEO"
     },
     {
+        "name": "NROL-44",
+        "rocketID": 3,
+        "siteID": 6,
+        "launchTime": 1601093640,
+        "genDate": "September 2020",
+        "craft": "",
+        "id": 49156,
+        "description": "United Launch Allinace will launch a classified payload for the National Reconnaissance Office. This mission is first of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
+        "recoveryStatus": "🚫",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/ula/nrol44.png",
+        "crewed": "",
+        "orbit": "LEO"
+    },
+    {
         "name": "GPS III SV04",
         "rocketID": 0,
         "siteID": 1,
@@ -29,23 +44,6 @@
         "crewed": "",
         "orbit": "MEO"
     },
-    {
-        "name": "NROL-44",
-        "rocketID": 3,
-        "siteID": 6,
-        "launchTime": 1601136090,
-        "genDate": "September 2020",
-        "craft": "",
-        "id": 49156,
-        "description": "United Launch Allinace will launch a classified payload for the National Reconnaissance Office. This mission is first of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
-        "recoveryStatus": "🚫",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/ula/nrol44.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
-    
-    
     {
         "name": "Starlink 13",
         "rocketID": 0,
