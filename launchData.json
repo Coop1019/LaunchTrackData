@@ -1,25 +1,10 @@
 [
     {
-        "name": "GPS III SV04",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 1601430900,
-        "genDate": "30 September 2020",
-        "craft": "1062.1",
-        "id": 1601510400,
-        "description": "This will be the fourth launch in GPS Block III, helping keep the Global Positioning System fully operational. The GPS satellite was developed by Lockheed Martin. GPS Block III was originated by the the Clinton Administration in 1998.",
-        "recoveryStatus": "Planned",
-        "destination": "Just Read the Instructions",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_06_2020_gps3.png",
-        "crewed": "",
-        "orbit": "MEO"
-    },
-    {
         "name": "NROL-44",
         "rocketID": 3,
         "siteID": 6,
-        "launchTime": 1601438290,
-        "genDate": "29 September 2020",
+        "launchTime": 1601524455,
+        "genDate": "30 September 2020",
         "craft": "",
         "id": 49156,
         "description": "United Launch Allinace will launch a classified payload for the National Reconnaissance Office. This mission is first of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
@@ -27,14 +12,16 @@
         "destination": "",
         "patchURL": "https://cdn.launchtrack.app/images/patches/ula/nrol44.png",
         "crewed": "",
-        "orbit": "LEO"
+        "liveURL": "",
+        "isLive": false,
+        "orbit": "GEO"
     },
     {
         "name": "Starlink 12",
         "rocketID": 0,
         "siteID": 0,
-        "launchTime": 0,
-        "genDate": "PENDING",
+        "launchTime": 1601558235,
+        "genDate": "1 October 2020",
         "craft": "1058.3",
         "id": 1600359420,
         "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
@@ -46,7 +33,23 @@
         "isLive": false,
         "orbit": "LEO"
     },
-    
+    {
+        "name": "GPS III SV04",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 1601689440,
+        "genDate": "2 October 2020",
+        "craft": "1062.1",
+        "id": 1601510400,
+        "description": "This will be the fourth launch in GPS Block III, helping keep the Global Positioning System fully operational. The GPS satellite was developed by Lockheed Martin. GPS Block III was originated by the the Clinton Administration in 1998.",
+        "recoveryStatus": "Planned",
+        "destination": "Just Read the Instructions",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_06_2020_gps3.png",
+        "crewed": "",
+        "liveURL": "",
+        "isLive": false,
+        "orbit": "MEO"
+    },
     {
         "name": "Starlink 13",
         "rocketID": 0,
