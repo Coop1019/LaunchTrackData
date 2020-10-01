@@ -17,6 +17,23 @@
         "orbit": "MEO"
     },
     {
+        "name": "Starlink 12",
+        "rocketID": 0,
+        "siteID": 0,
+        "launchTime": 1601728455,
+        "genDate": "3 October 2020",
+        "craft": "1058.3",
+        "id": 1600359420,
+        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
+        "recoveryStatus": "Planned",
+        "destination": "Of Course I Still Love You",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
+        "crewed": "",
+        "liveURL": "",
+        "isLive": false,
+        "orbit": "LEO"
+    },
+    {
         "name": "NROL-44",
         "rocketID": 3,
         "siteID": 6,
@@ -32,25 +49,7 @@
         "liveURL": "",
         "isLive": false,
         "orbit": "GEO"
-    },
-    {
-        "name": "Starlink 12",
-        "rocketID": 0,
-        "siteID": 0,
-        "launchTime": 0,
-        "genDate": "PENDING",
-        "craft": "1058.3",
-        "id": 1600359420,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
-        "recoveryStatus": "Planned",
-        "destination": "Of Course I Still Love You",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "crewed": "",
-        "liveURL": "",
-        "isLive": false,
-        "orbit": "LEO"
-    },
-    
+    }, 
     {
         "name": "Starlink 13",
         "rocketID": 0,
