@@ -49,6 +49,21 @@
         "orbit": "SSO"
     },
     {
+        "name": "NROL-108",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 0,
+        "genDate": "25 October 2020",
+        "craft": "",
+        "id": 23598346243,
+        "description": "SpaceX will launch a classified payload for the United States Reconnaissance Office.",
+        "recoveryStatus": "Planned",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
+        "crewed": "",
+        "orbit": "⁉️"
+    },
+    {
         "name": "Starlink 13",
         "rocketID": 0,
         "siteID": 0,
