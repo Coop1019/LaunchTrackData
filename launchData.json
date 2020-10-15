@@ -9,7 +9,7 @@
         "id": 1603024020,
         "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
         "recoveryStatus": "Planned",
-        "destination": "",
+        "destination": "Of Course I Still Love You",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
         "crewed": "",
         "orbit": "LEO"
@@ -56,7 +56,7 @@
         "id": 23598346243,
         "description": "SpaceX will launch a classified payload for the United States Reconnaissance Office.",
         "recoveryStatus": "Planned",
-        "destination": "",
+        "destination": "Landing Zone 1",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
         "crewed": "",
         "orbit": "👀⁉️🕵🏽‍♂️"
@@ -94,16 +94,17 @@
         "crewed": "",
         "orbit": "LEO"
     },
+   
     {
-        "name": "Türksat 5A",
+        "name": "SiriusXM 7",
         "rocketID": 0,
         "siteID": 1,
         "launchTime": 0,
-        "genDate": "October 2020",
+        "genDate": "6 November 2020",
         "craft": "",
-        "id": 48961548,
-        "description": "A 3500 kg satellite intended to be stationed at 31.0° East. Will provide Ku-band television broadcast services over Turkey, the Middle East, Europe and Africa. (Wikipedia)",
-        "recoveryStatus": "Planned",
+        "id": 1011,
+        "description": "SpaceX will launch a high power broadcasting satellite for SiriusXM satellite radio. The satellite was built by SSL, and it will communicate in the S-band. The satellite will replace the XM 3 satellite.",
+        "recoveryStatus": "Unknown",
         "destination": "",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
         "crewed": "",
@@ -113,7 +114,7 @@
         "name": "NASA Crew-1",
         "rocketID": 0,
         "siteID": 0,
-        "launchTime": 0,
+        "launchTime": 1605146400,
         "genDate": "November 2020",
         "craft": "1061.1",
         "id": 1603446435,
@@ -139,21 +140,7 @@
         "crewed": "",
         "orbit": "LEO"
     },
-    {
-        "name": "SiriusXM 7",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 0,
-        "genDate": "November 2020",
-        "craft": "",
-        "id": 1011,
-        "description": "SpaceX will launch a high power broadcasting satellite for SiriusXM satellite radio. The satellite was built by SSL, and it will communicate in the S-band. The satellite will replace the XM 3 satellite.",
-        "recoveryStatus": "Unknown",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
-        "crewed": "",
-        "orbit": "GTO"
-    },
+    
     {
         "name": "Starlink 16",
         "rocketID": 0,
@@ -213,6 +200,21 @@
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
         "crewed": "",
         "orbit": "LEO"
+    },
+    {
+        "name": "Türksat 5A",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 0,
+        "genDate": "30 November 2020",
+        "craft": "",
+        "id": 48961548,
+        "description": "A 3500 kg satellite intended to be stationed at 31.0° East. Will provide Ku-band television broadcast services over Turkey, the Middle East, Europe and Africa. (Wikipedia)",
+        "recoveryStatus": "Planned",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
+        "crewed": "",
+        "orbit": "GTO"
     },
     {
         "name": "TriSept Dragracer",
