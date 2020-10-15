@@ -30,6 +30,21 @@
         "orbit": "SSO"
     },
     {
+        "name": "Starlink 14",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 1603298160,
+        "genDate": "21 October 2020",
+        "craft": "1060.3",
+        "id": 1603298160,
+        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
+        "recoveryStatus": "Planned",
+        "destination": "Just Read the Instructions",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
+        "crewed": "",
+        "orbit": "LEO"
+    },
+    {
         "name": "NROL-44",
         "rocketID": 3,
         "siteID": 6,
@@ -79,21 +94,7 @@
         "orbit": "MEO"
     },
     
-    {
-        "name": "Starlink 14",
-        "rocketID": 0,
-        "siteID": 0,
-        "launchTime": 0,
-        "genDate": "October 2020",
-        "craft": "",
-        "id": 1012,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
-        "recoveryStatus": "Planned",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
+    
    
     {
         "name": "SiriusXM 7",
