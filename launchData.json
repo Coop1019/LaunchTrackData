@@ -12,6 +12,8 @@
         "destination": "Just Read the Instructions",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
         "crewed": "",
+        "liveURL": "https://www.youtube.com/watch?v=2gbVgTxLgN0",
+        "isLive": true,
         "orbit": "LEO"
     },
     {
