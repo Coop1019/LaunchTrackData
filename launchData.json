@@ -1,22 +1,5 @@
 [
     {
-        "name": "Starlink 14",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 1603553494,
-        "genDate": "24 Oct 2020",
-        "craft": "1060.3",
-        "id": 1603298160,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
-        "recoveryStatus": "Planned",
-        "destination": "Just Read the Instructions",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "crewed": "",
-        "liveURL": "https://www.youtube.com/watch?v=2gbVgTxLgN0",
-        "isLive": true,
-        "orbit": "LEO"
-    },
-    {
         "name": "In Focus",
         "rocketID": 1,
         "siteID": 2,
