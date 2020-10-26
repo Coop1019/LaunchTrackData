@@ -49,6 +49,23 @@
         "orbit": "👀⁉️🕵🏽‍♂️"
     }, 
     {
+        "name": "GPS III SV04",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 1604600640,
+        "genDate": "5 Nov 2020",
+        "craft": "1062.1",
+        "id": 1601510400,
+        "description": "This will be the fourth launch in GPS Block III, helping keep the Global Positioning System fully operational. The GPS satellite was developed by Lockheed Martin. GPS Block III was originated by the the Clinton Administration in 1998.",
+        "recoveryStatus": "Planned",
+        "destination": "Just Read the Instructions",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_06_2020_gps3.png",
+        "crewed": "",
+        "liveURL": "",
+        "isLive": false,
+        "orbit": "MEO"
+    },
+    {
         "name": "Jason-CS Sentinel-6A",
         "rocketID": 0,
         "siteID": 4,
@@ -95,23 +112,6 @@
         "isLive": false,
         "orbit": "GEO"
     }, 
-    {
-        "name": "GPS III SV04",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 0,
-        "genDate": "PENDING",
-        "craft": "1062.1",
-        "id": 1601510400,
-        "description": "This will be the fourth launch in GPS Block III, helping keep the Global Positioning System fully operational. The GPS satellite was developed by Lockheed Martin. GPS Block III was originated by the the Clinton Administration in 1998.",
-        "recoveryStatus": "Planned",
-        "destination": "Just Read the Instructions",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_06_2020_gps3.png",
-        "crewed": "",
-        "liveURL": "",
-        "isLive": false,
-        "orbit": "MEO"
-    },
     {
         "name": "SiriusXM 7",
         "rocketID": 0,
