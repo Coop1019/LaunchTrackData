@@ -1,20 +1,5 @@
 [
     {
-        "name": "NROL-108",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 1604152500,
-        "genDate": "31 Oct 2020",
-        "craft": "",
-        "id": 23598346243,
-        "description": "SpaceX will launch a classified payload for the United States Reconnaissance Office.",
-        "recoveryStatus": "Planned",
-        "destination": "Landing Zone 1",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
-        "crewed": "",
-        "orbit": "👀⁉️🕵🏽‍♂️"
-    },
-    {
         "name": "NROL-101",
         "rocketID": 2,
         "siteID": 3,
@@ -77,6 +62,21 @@
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_nasa_crew1.png",
         "crewed": "👨🏼‍🚀👨🏾‍🚀👩🏼‍🚀👨🏽‍🚀",
         "orbit": "LEO"
+    },
+    {
+        "name": "NROL-108",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 0,
+        "genDate": "18 Nov 2020",
+        "craft": "",
+        "id": 23598346243,
+        "description": "SpaceX will launch a classified payload for the United States Reconnaissance Office.",
+        "recoveryStatus": "Planned",
+        "destination": "Landing Zone 1",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
+        "crewed": "",
+        "orbit": "👀⁉️🕵🏽‍♂️"
     },
     {
         "name": "NROL-44",
