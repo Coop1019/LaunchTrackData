@@ -1,27 +1,9 @@
 [
     {
-        "name": "NROL-101",
-        "rocketID": 2,
-        "siteID": 3,
-        "launchTime": 1605305580,
-        "genDate": "13 Nov 2020",
-        "craft": "531 Config",
-        "id": 253908981264908,
-        "description": "United Launch Allinace will launch a classified payload for the National Reconnaissance Office.",
-        "recoveryStatus": "🚫",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/ula/nrol101.png",
-        "crewed": "",
-        "liveURL": "https://www.youtube.com/watch?v=SZyjzR96EJU",
-        "isLive": true,
-        "orbit": "👀⁉️🕵🏽‍♂️"
-    }, 
-    
-    {
         "name": "NASA Crew-1",
         "rocketID": 0,
         "siteID": 0,
-        "launchTime": 1605486420,
+        "launchTime": 1605486439,
         "genDate": "15 Nov 2020",
         "craft": "1061.1",
         "id": 1603446435,
@@ -30,6 +12,8 @@
         "destination": "",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_nasa_crew1.png",
         "crewed": "👨🏼‍🚀👨🏾‍🚀👩🏼‍🚀👨🏽‍🚀",
+        "liveURL": "https://www.youtube.com/watch?v=bnChQbxLkkI",
+        "isLive": true,
         "orbit": "LEO"
     },
     {
