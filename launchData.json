@@ -1,22 +1,5 @@
 [
     {
-        "name": "NASA Crew-1",
-        "rocketID": 0,
-        "siteID": 0,
-        "launchTime": 1605486439,
-        "genDate": "15 Nov 2020",
-        "craft": "1061.1",
-        "id": 1603446435,
-        "description": "SpaceX Crew 1 will launch four astronauts aboard the Crew Dragon C207 capsule to the International Space Station. The launch is planned to occur after the sucessful return of SpaceX Demo 2. The four astronauts will serve as part of Expedition 64 aboard the International Space Station.\n\nSpacecraft commander: Michael S. Hopkins (NASA)\n\nPilot: Victor J. Glover (NASA)\n\nMission Specialist 1: Soichi Noguchi (JAXA)\n\nMission Specialist 2: Shannon Walker (NASA)",
-        "recoveryStatus": "Complete",
-        "destination": "Just Read the Instructions",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_nasa_crew1.png",
-        "crewed": "👨🏼‍🚀👨🏾‍🚀👩🏼‍🚀👨🏽‍🚀",
-        "liveURL": "https://www.youtube.com/watch?v=bnChQbxLkkI",
-        "isLive": true,
-        "orbit": "LEO"
-    },
-    {
         "name": "NROL-108",
         "rocketID": 0,
         "siteID": 1,
