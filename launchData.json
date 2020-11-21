@@ -1,19 +1,5 @@
 [
-    {
-        "name": "Jason-CS Sentinel-6A",
-        "rocketID": 0,
-        "siteID": 4,
-        "launchTime": 1605979020,
-        "genDate": "21 Nov 2020",
-        "craft": "1063.1",
-        "id": 1048915609,
-        "description": "Radar altimeter satellite launched by a partnership between NOAA, NASA, EUMETSAT, ESA, and CNES",
-        "recoveryStatus": "Planned",
-        "destination": "Landing Zone 4",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
+
     {
         "name": "Starlink 15",
         "rocketID": 0,
