@@ -9,7 +9,7 @@
         "description": "SpaceX is targeting Saturday, November 21 for Falcon 9’s launch of  the Sentinel-6 Michael Freilich mission from Space Launch Complex 4E (SLC-4E) at Vandenberg Air Force Base in California. The instantaneous launch window is at 9:17 a.m. PST, 17:17 UTC, and a backup opportunity is available on Sunday, November 22 with an instantaneous launch window at 9:04 a.m. PST, 17:04 UTC.\n\nFollowing stage separation, Falcon 9’s first stage will return to Earth and land on Landing Zone 4 at Vandenberg Air Force Base. The spacecraft will deploy approximately 58 minutes after liftoff (SpaceX)",
         "recoveryStatus": "Complete",
         "destination": "Landing Zone 4",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx/sentinel6.png",
         "crewed": "",
         "replayURL": "https://youtu.be/aVFPzTDCihQ?t=2164",
         "outcome": 0,
