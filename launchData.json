@@ -1,20 +1,4 @@
 [
-
-    {
-        "name": "Starlink 15",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 1606270380,
-        "genDate": "24 Nov 2020",
-        "craft": "1049.7",
-        "id": 1014,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
-        "recoveryStatus": "Planned",
-        "destination": "Of Course I Still Love You",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
     {
         "name": "The Owl's Night Begins",
         "rocketID": 1,
