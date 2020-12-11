@@ -10,7 +10,7 @@
         "description": "SpaceX will launch a high power broadcasting satellite for SiriusXM satellite radio. The satellite was built by SSL, and it will communicate in the S-band. The satellite will replace the XM 3 satellite.",
         "recoveryStatus": "Planned",
         "destination": "Just Read the Instructions",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx/sxm.png",
         "crewed": "",
         "orbit": "GTO"
     },    
@@ -34,7 +34,7 @@
         "rocketID": 0,
         "siteID": 1,
         "launchTime": 0,
-        "genDate": "Dec 2020",
+        "genDate": "17 Dec 2020",
         "craft": "1059.5",
         "id": 23598346243,
         "description": "SpaceX will launch a classified payload for the United States Reconnaissance Office.",
