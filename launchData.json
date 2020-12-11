@@ -45,23 +45,6 @@
         "orbit": "GTO"
     },
     {
-        "name": "NROL-44",
-        "rocketID": 3,
-        "siteID": 6,
-        "launchTime": 0,
-        "genDate": "PENDING",
-        "craft": "BROKEN",
-        "id": 49156,
-        "description": "United Launch Allinace will (maybe, sometimme) launch a classified payload for the National Reconnaissance Office. This mission is first of five final Delta IV Heavy missions (and will maybe launch sometime!), which the NRO contracted for $2.2B USD ($440M/ea)",
-        "recoveryStatus": "🚫",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/ula/nrol44.png",
-        "crewed": "",
-        "liveURL": "",
-        "isLive": false,
-        "orbit": "GEO"
-    }, 
-    {
         "name": "SiriusXM 7",
         "rocketID": 0,
         "siteID": 1,
