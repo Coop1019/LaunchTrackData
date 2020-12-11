@@ -11,6 +11,8 @@
         "recoveryStatus": "Planned",
         "destination": "Just Read the Instructions",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx/sxm.png",
+        "liveURL": "https://www.youtube.com/watch?v=gONuvx4hU6A",
+        "isLive": true,
         "crewed": "",
         "orbit": "GTO"
     },    
