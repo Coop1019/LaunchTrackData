@@ -1,5 +1,20 @@
 [
     {
+        "name": "SiriusXM 7",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 1607703600,
+        "genDate": "11 Dec 2020",
+        "craft": "1051.7",
+        "id": 1607703600,
+        "description": "SpaceX will launch a high power broadcasting satellite for SiriusXM satellite radio. The satellite was built by SSL, and it will communicate in the S-band. The satellite will replace the XM 3 satellite.",
+        "recoveryStatus": "Planned",
+        "destination": "Just Read the Instructions",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
+        "crewed": "",
+        "orbit": "GTO"
+    },    
+    {
         "name": "The Owl's Night Begins",
         "rocketID": 1,
         "siteID": 2,
@@ -43,22 +58,7 @@
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
         "crewed": "",
         "orbit": "GTO"
-    },
-    {
-        "name": "SiriusXM 7",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 0,
-        "genDate": "Dec 2020",
-        "craft": "",
-        "id": 1011,
-        "description": "SpaceX will launch a high power broadcasting satellite for SiriusXM satellite radio. The satellite was built by SSL, and it will communicate in the S-band. The satellite will replace the XM 3 satellite.",
-        "recoveryStatus": "Unknown",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
-        "crewed": "",
-        "orbit": "GTO"
-    },   
+    }, 
     {
         "name": "Starlink 16",
         "rocketID": 0,
