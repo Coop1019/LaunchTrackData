@@ -1,37 +1,5 @@
 [
     {
-        "name": "SiriusXM 7",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 0,
-        "genDate": "Dec 2020",
-        "craft": "1051.7",
-        "id": 1011,
-        "description": "SpaceX will launch a high power broadcasting satellite for SiriusXM satellite radio. The satellite was built by SSL, and it will communicate in the S-band. The satellite will replace the XM 3 satellite.",
-        "recoveryStatus": "Planned",
-        "destination": "Just Read the Instructions",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx/sxm.png",
-        "liveURL": "https://www.youtube.com/watch?v=gONuvx4hU6A",
-        "isLive": false,
-        "crewed": "",
-        "orbit": "GTO"
-    },    
-    {
-        "name": "The Owl's Night Begins",
-        "rocketID": 1,
-        "siteID": 2,
-        "launchTime": 1607767740,
-        "genDate": "12 Dec 2020",
-        "craft": "Curie",
-        "id": 1607767740,
-        "description": "Rocket Lab's 17th mission is a dedicated launch for Japanese Earth-imaging company Synspective.\n\nThe mission is named ‘The Owl’s Night Begins’ in a nod to Synspective’s StriX family of synthetic aperture radar (SAR) spacecraft developed to be able to image millimetre-level changes to the Earth’s surface from space, independent of weather conditions on Earth and at any time of the day or night. Strix is also the genus of owls.\n\nThe StriX-α satellite onboard this mission will be the first of a series of spacecraft deployments for Synspective’s planned constellation of more than 30 SAR small satellites to collate data of metropolitan centers across Asia on a daily basis that can be used for urban development planning, construction and infrastructure monitoring, and disaster response.\n\n(Rocket Lab)",
-        "recoveryStatus": "🚫",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/rl/rl_17.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
-    {
         "name": "NROL-108",
         "rocketID": 0,
         "siteID": 1,
