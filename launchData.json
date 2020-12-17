@@ -64,7 +64,7 @@
         "rocketID": 0,
         "siteID": 1,
         "launchTime": 0,
-        "genDate": "14 Jan 2020",
+        "genDate": "14 Jan 2021",
         "craft": "",
         "id": 498489,
         "description": "First dedicated smallsat rideshare launch, targeting a 525 km high orbit. Originally announced for October 2020, it will include payloads like Amber Road, Aurora Cubesat, Lemur-2 (x 8), NanoRacks Outpost Demonstration, and multiple Kepler nanosats as part of its planned 140 satellite constellation. Nanoracks will deploy eight small satellites together with an in-space Outpost-demonstration involving structural metal cutting. Exolaunch will deploy several smaller satellites and cubesats via its own deployment mechanisms. Momentus has also contracted payloads for five SSO launches. (Wikipedia)",
@@ -74,26 +74,6 @@
         "crewed": "",
         "orbit": "SSO"
     },
-    {
-        "name": "NROL-82",
-        "rocketID": 3,
-        "siteID": 7,
-        "launchTime": 0,
-        "genDate": "Dec 2020",
-        "craft": "",
-        "id": 9874166564,
-        "description": "United Launch Alliance will launch a classified payload for the National Reconnaissance Office. This mission is second of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
-        "recoveryStatus": "🚫",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/ula_base.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
-
-    
-
-
-
     {
         "name": "Synspective StriX-α",
         "rocketID": 1,
@@ -124,6 +104,27 @@
         "crewed": "",
         "orbit": "LEO"
     },
+    {
+        "name": "NROL-82",
+        "rocketID": 3,
+        "siteID": 7,
+        "launchTime": 0,
+        "genDate": "Feb 2021",
+        "craft": "",
+        "id": 9874166564,
+        "description": "United Launch Alliance will launch a classified payload for the National Reconnaissance Office. This mission is second of five final Delta IV Heavy missions, which the NRO contracted for $2.2B USD ($440M/ea)",
+        "recoveryStatus": "🚫",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/ula_base.png",
+        "crewed": "",
+        "orbit": "LEO"
+    },
+
+    
+
+
+
+ 
     {
         "name": "SARah 1",
         "rocketID": 0,
@@ -428,7 +429,51 @@
         "crewed": "",
         "orbit": "SSO"
     },
-    
+    {
+        "name": "CE-SAT I/II Mark II",
+        "rocketID": 1,
+        "siteID": 2,
+        "launchTime": 0,
+        "genDate": "2021",
+        "craft": "",
+        "id": 489156,
+        "description": "With Spaceflight, launching the Canon Electronics Satellite I (CE-SAT) Mark II, the first mass-production model of CE-SAT I, an Earth-observing satellite. The CE-Sat II has two cameras on the satellite which has different resolutions, also for Earth observation. (Wikipedia)",
+        "recoveryStatus": "In Development",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/rl_base.png",
+        "crewed": "",
+        "orbit": "LEO"
+    },
+    {
+        "name": "Akash MCNAIR",
+        "rocketID": 1,
+        "siteID": 2,
+        "launchTime": 0,
+        "genDate": "2021",
+        "craft": "",
+        "id": 68464,
+        "description": "MCNAIR will be launched into a 500 km high sun-synchronous orbit with a 97.8° inclination. The MCNAIR mission has the purpose of testing the 'GaN-on-Diamond transmitter'. (Wikipedia)",
+        "recoveryStatus": "In Development",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/rl_base.png",
+        "crewed": "",
+        "orbit": "LEO"
+    },
+    {
+        "name": "Planet Labs Flock-x",
+        "rocketID": 1,
+        "siteID": 2,
+        "launchTime": 0,
+        "genDate": "2021",
+        "craft": "",
+        "id": 3298489,
+        "description": "A constellation of satellites for Earth observation. 20 to 25 micro-satellites will be released during the launch. (Wikipedia)",
+        "recoveryStatus": "In Development",
+        "destination": "",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/rl_base.png",
+        "crewed": "",
+        "orbit": "LEO"
+    },
     
     
     
@@ -515,52 +560,10 @@
     
 
     
+    
+    
 
-    {
-        "name": "CE-SAT I/II Mark II",
-        "rocketID": 1,
-        "siteID": 2,
-        "launchTime": 0,
-        "genDate": "2021",
-        "craft": "",
-        "id": 489156,
-        "description": "With Spaceflight, launching the Canon Electronics Satellite I (CE-SAT) Mark II, the first mass-production model of CE-SAT I, an Earth-observing satellite. The CE-Sat II has two cameras on the satellite which has different resolutions, also for Earth observation. (Wikipedia)",
-        "recoveryStatus": "In Development",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/rl_base.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
-    {
-        "name": "Akash MCNAIR",
-        "rocketID": 1,
-        "siteID": 2,
-        "launchTime": 0,
-        "genDate": "2021",
-        "craft": "",
-        "id": 68464,
-        "description": "MCNAIR will be launched into a 500 km high sun-synchronous orbit with a 97.8° inclination. The MCNAIR mission has the purpose of testing the 'GaN-on-Diamond transmitter'. (Wikipedia)",
-        "recoveryStatus": "In Development",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/rl_base.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
-    {
-        "name": "Planet Labs Flock-x",
-        "rocketID": 1,
-        "siteID": 2,
-        "launchTime": 0,
-        "genDate": "Late 2020",
-        "craft": "",
-        "id": 3298489,
-        "description": "A constellation of satellites for Earth observation. 20 to 25 micro-satellites will be released during the launch. (Wikipedia)",
-        "recoveryStatus": "In Development",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/rl_base.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
+
 
 
 
