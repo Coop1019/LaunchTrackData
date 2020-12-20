@@ -1,19 +1,5 @@
 [
-    {
-        "name": "NROL-108",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 1608213600,
-        "genDate": "17 Dec 2020",
-        "craft": "1059.5",
-        "id": 23598346243,
-        "description": "SpaceX will launch a classified payload for the United States Reconnaissance Office.",
-        "recoveryStatus": "Planned",
-        "destination": "Landing Zone 1",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx/nrol108.png",
-        "crewed": "",
-        "orbit": "👀⁉️🕵🏽‍♂️"
-    },
+
     {
         "name": "Starlink 16",
         "rocketID": 0,
