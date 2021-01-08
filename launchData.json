@@ -78,21 +78,6 @@
         "orbit": "SSO"
     },
     {
-        "name": "Synspective StriX-α",
-        "rocketID": 1,
-        "siteID": 2,
-        "launchTime": 0,
-        "genDate": "Jan 2021",
-        "craft": "",
-        "id": 98811,
-        "description": "Test satellite weighing 150 kg (330 lb) using synthetic-aperture radar from a Japanese company. Part of a future constellation of 25 satellites to provide global coverage. (Wikipedia)",
-        "recoveryStatus": "In Development",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/rl_base.png",
-        "crewed": "",
-        "orbit": "LEO"
-    },
-    {
         "name": "Monolith (STP-27RM)",
         "rocketID": 1,
         "siteID": 5,
@@ -122,10 +107,6 @@
         "crewed": "",
         "orbit": "LEO"
     },
-
-    
-
-
 
  
     {
@@ -220,21 +201,6 @@
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
         "crewed": "",
         "orbit": "GEO"
-    },
-    {
-        "name": "SmallSat Rideshare 2",
-        "rocketID": 0,
-        "siteID": 4,
-        "launchTime": 0,
-        "genDate": "Jun 2021",
-        "craft": "",
-        "id": 3549524,
-        "description": "Rideshare small sat mission",
-        "recoveryStatus": "Planned",
-        "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
-        "crewed": "",
-        "orbit": "SSO"
     },
     {
         "name": "Türksat 5B",
