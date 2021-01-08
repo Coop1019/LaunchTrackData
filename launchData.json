@@ -27,7 +27,7 @@
         "description": "The mission will launch a single communication microsatellite for OHB Group that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission and was procured for OHB Group through OHB Cosmos International Launch Service GmbH, the launch service division of OHB Group. OHB Cosmos is responsible for launching the spacecraft built by the Group's satellite manufacturers based in Germany, Sweden, and Czech Republic.\n\nThe mission will launch from Rocket Lab Launch Complex 1 on New Zealand’s Māhia Peninsula (Rocket Lab)",
         "recoveryStatus": "🚫",
         "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/rl_base.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/rl/rl_18.png",
         "crewed": "",
         "orbit": "LEO"
     },
