@@ -5,7 +5,7 @@
         "siteID": 1,
         "launchTime": 1610072100,
         "genDate": "7 Jan 2021",
-        "craft": "",
+        "craft": "1060.4",
         "id": 48961548,
         "description": "A 3500 kg satellite intended to be stationed at 31.0° East. Will provide Ku-band television broadcast services over Turkey, the Middle East, Europe and Africa. (Wikipedia)",
         "recoveryStatus": "Planned",
@@ -63,12 +63,12 @@
         "orbit": "LEO"
     },
     {
-        "name": "SmallSat Rideshare 1",
+        "name": "Transporter-1",
         "rocketID": 0,
         "siteID": 1,
         "launchTime": 0,
         "genDate": "14 Jan 2021",
-        "craft": "",
+        "craft": "1051.8",
         "id": 498489,
         "description": "First dedicated smallsat rideshare launch, targeting a 525 km high orbit. Originally announced for October 2020, it will include payloads like Amber Road, Aurora Cubesat, Lemur-2 (x 8), NanoRacks Outpost Demonstration, and multiple Kepler nanosats as part of its planned 140 satellite constellation. Nanoracks will deploy eight small satellites together with an in-space Outpost-demonstration involving structural metal cutting. Exolaunch will deploy several smaller satellites and cubesats via its own deployment mechanisms. Momentus has also contracted payloads for five SSO launches. (Wikipedia)",
         "recoveryStatus": "Planned",
