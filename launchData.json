@@ -132,7 +132,7 @@
         "description": "SpaceX will launch a high power broadcasting satellite for SiriusXM satellite radio. The satellite was built by SSL, and it will communicate in the S-band. The satellite will replace the XM 4 satellite.",
         "recoveryStatus": "Unknown",
         "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx/sxm7.png",
         "crewed": "",
         "orbit": "GTO"
     },
@@ -255,7 +255,7 @@
         "description": "This will be the fifth launch in GPS Block III, helping keep the Global Positioning System fully operational. The GPS satellite was developed by Lockheed Martin. GPS Block III was originated by the Clinton Administration in 1998.",
         "recoveryStatus": "Planned",
         "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_06_2020_gps3.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx/gps3-4.png",
         "crewed": "",
         "orbit": "MEO"
     },
@@ -300,7 +300,7 @@
         "description": "This will be the sixth launch in GPS Block III, helping keep the Global Positioning System fully operational. The GPS satellite was developed by Lockheed Martin. GPS Block III was originated by the Clinton Administration in 1998.",
         "recoveryStatus": "Planned",
         "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_06_2020_gps3.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx/gps3-4.png",
         "crewed": "",
         "orbit": "MEO"
     },
