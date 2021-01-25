@@ -1,30 +1,15 @@
 [
     {
-        "name": "Transporter-1",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 1611412800,
-        "genDate": "23 Jan 2021",
-        "craft": "1059.6",
-        "id": 498489,
-        "description": "First dedicated smallsat rideshare launch, targeting a 525 km high orbit. Originally announced for October 2020, it will include payloads like Amber Road, Aurora Cubesat, Lemur-2 (x 8), NanoRacks Outpost Demonstration, and multiple Kepler nanosats as part of its planned 140 satellite constellation. Nanoracks will deploy eight small satellites together with an in-space Outpost-demonstration involving structural metal cutting. Exolaunch will deploy several smaller satellites and cubesats via its own deployment mechanisms. Momentus has also contracted payloads for five SSO launches. (Wikipedia)",
-        "recoveryStatus": "Planned",
-        "destination": "Of Course I Still Love You",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
-        "crewed": "",
-        "orbit": "SSO"
-    },
-    {
         "name": "Starlink 17",
         "rocketID": 0,
-        "siteID": 1,
+        "siteID": 0,
         "launchTime": 0,
         "genDate": "Jan 2021",
-        "craft": "",
+        "craft": "1049.8",
         "id": 1016,
         "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
         "recoveryStatus": "Planned",
-        "destination": "",
+        "destination": "Just Read the Instructions",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
         "crewed": "",
         "orbit": "LEO"
