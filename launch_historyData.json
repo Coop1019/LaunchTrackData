@@ -1,5 +1,21 @@
 [
     {
+        "name": "Starlink 18",
+        "rocketID": 0,
+        "siteID": 1,
+        "launchTime": 1612419540,
+        "craft": "1060.5",
+        "id": 3159083590,
+        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe.",
+        "recoveryStatus": "Complete",
+        "destination": "Of Course I Still Love You",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
+        "replayURL": "https://youtu.be/fe6HBw1y6bA?t=787",
+        "outcome": 0,
+        "crewed": "",
+        "orbit": "LEO"
+    },
+    {
         "name": "Transporter-1",
         "rocketID": 0,
         "siteID": 1,
