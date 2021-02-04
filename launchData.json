@@ -102,7 +102,7 @@
         "description": "Second operational flight of Crew Dragon for Commercial Crew Program (3rd flight carrying astronauts). Will transport four astronauts to the ISS who will spend 6 months aboard the ISS. Starting on USCV-3 SpaceX is allowed to fly astronauts in re-used Dragon capsules with reused boosters. (Wikipedia)",
         "recoveryStatus": "Planned",
         "destination": "",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_base.png",
+        "patchURL": "https://cdn.launchtrack.app/images/patches/sx/crew2.png",
         "crewed": "👩🏼‍🚀👨🏾‍🚀👩🏼‍🚀👨🏽‍🚀",
         "orbit": "LEO"
     },
