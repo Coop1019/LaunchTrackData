@@ -1,22 +1,5 @@
 [
     {
-        "name": "Starlink 19",
-        "rocketID": 0,
-        "siteID": 1,
-        "launchTime": 1613447940,
-        "genDate": "15 Feb 2021",
-        "craft": "1059.6",
-        "id": 991242579,
-        "description": "SpaceX will launch another batch of their Starlink internet satellites. These satellites are in low earth orbit to provide high-speed, low-latency internet around the globe. Flight 17 is following 19 due to scheduling at the Cape.",
-        "recoveryStatus": "Planned",
-        "destination": "Of Course I Still Love You",
-        "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
-        "liveURL": "https://www.youtube.com/watch?v=L0dkyV09Zso",
-        "isLive": true,
-        "crewed": "",
-        "orbit": "LEO"
-    },
-    {
         "name": "Starlink 17",
         "rocketID": 0,
         "siteID": 0,
