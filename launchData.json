@@ -11,6 +11,8 @@
         "recoveryStatus": "Planned",
         "destination": "Of Course I Still Love You",
         "patchURL": "https://cdn.launchtrack.app/images/patches/sx_starlink.png",
+        "liveURL": "https://www.youtube.com/watch?v=L0dkyV09Zso",
+        "isLive": true,
         "crewed": "",
         "orbit": "LEO"
     },
